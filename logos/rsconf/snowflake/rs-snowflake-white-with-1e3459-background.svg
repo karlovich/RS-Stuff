@@ -14,7 +14,7 @@
    height="290"
    id="svg2"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="rs-snowflake-experiment-with-white-background.svg">
+   sodipodi:docname="rs-snowflake-white-with-1e3459-background.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,14 +24,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      id="namedview3101"
      showgrid="false"
      inkscape:zoom="2.0262267"
-     inkscape:cx="-2.879118"
-     inkscape:cy="117.78875"
-     inkscape:window-x="1358"
+     inkscape:cx="74.11128"
+     inkscape:cy="170.08819"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,9 +72,9 @@
      sodipodi:rx="90.315659"
      sodipodi:ry="85.873909"
      d="m 109.06973,41.755314 a 90.315659,85.873909 0 1 1 -180.631316,0 90.315659,85.873909 0 1 1 180.631316,0 z"
-     transform="matrix(1.1748634,0,0,1.2385058,113.68678,92.941746)" />
+     transform="matrix(1.0765027,0,0,1.1206897,113.06381,92.67915)" />
   <g
-     transform="matrix(1.1024408,0,0,1.0802804,-111.14802,-57.671117)"
+     transform="translate(-3.2300033,-6.8178368)"
      id="layer1"
      style="fill:#ffffff;fill-opacity:1">
     <g
@@ -82,7 +82,7 @@
        id="g10"
        style="fill:#ffffff;fill-opacity:1">
       <g
-         transform="translate(64.62156,9.6653735)"
+         transform="translate(-5.6568543,42.830468)"
          id="g14"
          style="fill:#ffffff;fill-opacity:1">
         <g

@@ -1,0 +1,32 @@
+<div style="
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: black;
+    z-index: 3;  margin: 0;      font-family: 'PT Sans Narrow',sans-serif;    border: none;    color: #fff;  
+    align-items: center;      
+    justify-content: center;     
+    flex-direction: column;          
+    text-align: center;
+    padding-bottom: 113px;
+">
+<img src="../images/70e9ebaf.logo_rs.svg" style="
+    width: 502px;
+    display: block;
+    margin-left: -59px;
+"><span style="
+    display: block;
+    font-size: 188px;
+    font-weight: bold;
+    line-height: 253px;
+">Rolling Scopes</span><div style="
+    display: block;  font-size: 135px;  font-weight: bold;
+    line-height: 135px;
+">представляет</div>
+</div>
+
+------------------------------------------------------------------
+

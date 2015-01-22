@@ -1,0 +1,69 @@
+<div style="
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 600px;
+    height: 240px;
+    background-color: black;
+    color: white;
+">
+  <div style="
+    position: absolute;
+    left: 207px;
+    right: 0;
+    text-align: center;
+    top: 23px;
+">
+  	<span style="
+    font-family: 'PT Sans Narrow',sans-serif;
+    font-size: 44px;
+">Dr. Axel Rauschmayer</span><br>
+<span style="
+    color: rgb(252, 249, 16);
+    font-size: 27px;
+    line-height: 62px;
+">"Using ECMAScript 6 today"</span>
+  </div>
+<img src="http://conf.rollingscopes.com/images/speakers/604e80b3.axel_rauschmayer.jpg" style="
+    width: 200px;
+    border-radius: 50%;
+    border: solid white 4px;
+    margin: 15px;
+"><div style="
+    position: absolute;
+    top: 141px;
+    left: 238px;
+    bottom: 0;
+    right: 0;
+">
+<span style="
+    float: left;
+    font-family: 'PT Sans Narrow',sans-serif;
+    font-size: 23px;
+">The Rolling Scopes Conference</span>
+<br><span style="
+    font-family: 'PT Sans Narrow',sans-serif;
+    line-height: 32px;
+    font-size: 16px;
+"><i class="fa fa-map-marker" style="
+    color: #e5194c;
+    /* margin-right: 1px; */
+    /* font-family: 'PT Sans Narrow',sans-serif; */
+"></i>  IBB, проспект газеты Правда, 11</span>
+<br>
+<span style="
+    font-family: 'PT Sans Narrow',sans-serif;
+    font-size: 16px;
+">
+<i class="fa fa-clock-o" style="
+    /* color: #BCBCBC; */
+"></i> 10:55 - 12:50, 1 февраля
+</span><img src="http://conf.rollingscopes.com/images/1107f683.logo_rs.svg" style="
+    width: 100px;
+    right: 14px;
+    position: absolute;
+    /* float: right; */
+    bottom: 10px;
+">
+</div>
+</div>

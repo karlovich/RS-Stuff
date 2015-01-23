@@ -4,7 +4,7 @@
     bottom: 0;
     width: 600px;
     height: 240px;
-    background-color: black;
+    background-color: #1e3459;
     color: white;
 ">
   <div style="
@@ -25,7 +25,7 @@
     line-height: 26px;
 ">"Improving Smashing Magazine’s Performance: A Case Study"</span>
   </div>
-<img src="http://conf.rollingscopes.com/images/speakers/32d0a02a.vitaly_friedman_2.jpg" style="
+<img src="http://sdk.reutersinsider.com/fri.jpg" style="
     width: 200px;
     border-radius: 50%;
     border: solid white 4px;

@@ -1,0 +1,414 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 15.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Belarus Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CATEGORIES:Blue Category
+CLASS:PUBLIC
+CREATED:20150130T131401Z
+DESCRIPTION:Уважаемые участники “The Rolling Scopes Con
+	ference”\,\n\nЖдём Вас 1 февраля 2015 г. (в воскре
+	сенье) на конференции “The Rolling Scopes”.\n\nАд
+	рес:  г. Минск\, ул. Газеты Правды\,11 <https://www
+	.google.com/maps/place/IBB/@53.8679782\,27.4801217\,16z/data=!4m2!3m1!1s0x
+	0:0x420b8af99a36cad9?hl=en-US> .\n\nКонференц-зал IBB <http://
+	ibb.by/conference> . \n\nНачало регистрации: 9.00. \n\nП
+	рограмма конференции: http://conf.rollingscopes.com/sch
+	edule.html.\n\nПросим Вас взять копию билета дл
+	я сканирования. Если Ваш билет покупала 
+	компания – убедитесь\, что Ваши данные (и
+	мя \\ фамилия) были отправлены организато
+	рам (rolling.scopes@gmail.com).  Если покупали билет 
+	напрямую в IMAGURU\, вам должен прийти на поч
+	ту электронный билет из системы Eventbright. Е
+	сли по каким-то причинам письмо затеряло
+	сь\, не волнуйтесь – ваши данные у нас ес
+	ть\, просто приходите и мы найдем вас в сп
+	исках. По срочным вопросам можно позвони
+	ть организаторам напрямую\, все контакты
+	 указаны здесь: http://conf.rollingscopes.com/codeofconduct.ht
+	ml\n\nНа конференции будет работать синхро
+	нный переводчик. \n\nЕсли Вы захотите взят
+	ь устройство для прослушивания синхронн
+	ого перевода\, при себе необходимо иметь 
+	документ\, удостоверяющий личность. \n\nБо
+	льшая просьба относиться к устройству б
+	ережно и аккуратно\, при утере или повреж
+	дении гарнитуры\, вся ответственность и 
+	возмещение убытка будет лежать на польз
+	ователе.\n\nДля участия в конкурсе “CSS Quiz
+	” обязательно наличие ноутбука. Будут р
+	азыгрываться лицензии на продукты JetBrains\
+	, а также Google Chromebook Pixel от компании PandaDoc.\n\
+	nНе забываем\, что 31-го января у нас воркш
+	опы. Можно еще успеть зарегистрироватьс
+	я здесь: http://goo.gl/ZWOHlX\n\nАфтепати пройдет с
+	разу по окончании конференции там же\, в I
+	BB центре\, в программе пиво и снеки.\n\n\n\nЖ
+	елаем Вам приятного препровождения!\n\nДо
+	 встречи на конференции!\n\nС уважением\,\n\
+	nОрганизаторы the Rolling Scopes Conference\n\nhttp://conf.rol
+	lingscopes.com/\n\n \n\n
+DTEND;TZID="Belarus Standard Time":20150201T200000
+DTSTAMP:20150128T115330Z
+DTSTART;TZID="Belarus Standard Time":20150201T093000
+LAST-MODIFIED:20150130T131401Z
+LOCATION:IBB - Газеты Правды\,11 
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:#rsconf
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000405AF632073BD001000000000000000
+	010000000107E2F684C19C7459EF1172509E39F0E
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Уважаемы
+	е</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">учас
+	тники “The Rolling Scopes Conference”\,</FONT></SPAN><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri">Ждём Вас</FONT>
+	</SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B></B></SPAN><
+	SPAN LANG="en-us"><B></B></SPAN><B><SPAN LANG="ru"><FONT FACE="Arial"></FO
+	NT></SPAN></B><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B></B><
+	/SPAN><SPAN LANG="en-us"><B></B></SPAN><B><SPAN LANG="ru"> <FONT FACE="Cal
+	ibri">1 февраля 2015 г. (в воскресенье)</FONT></SPAN><
+	/B><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="ru"><FONT FACE="Calibri"> на конференции 
+	“</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"><FONT FACE="Calibri">The</FONT></SPAN><SPAN LANG="en-us"></S
+	PAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><F
+	ONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">Rolling</FONT></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN
+	><SPAN LANG="ru"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">Scope
+	s</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri">”.</FONT></SPAN>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></S
+	PAN><SPAN LANG="ru"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FA
+	CE="Calibri">Адрес:</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Arial"> </FONT></SPAN><SPA
+	N LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="ru"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN
+	><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"> <FON
+	T FACE="Calibri">г. Минск\,</FONT></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT F
+	ACE="Arial"></FONT></SPAN><SPAN LANG="en-us"> </SPAN><A HREF="https://www.
+	google.com/maps/place/IBB/@53.8679782\,27.4801217\,16z/data=!4m2!3m1!1s0x0
+	:0x420b8af99a36cad9?hl=en-US"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"><U></U></SPAN><U><SPAN LANG="ru"><FONT COLOR="#
+	0563C1" FACE="Calibri">ул. Газеты Правды\,11</FONT></SPAN></
+	U><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-u
+	s"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri">.
+	</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="ru"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="ru"><FONT FACE="Calibri">Конференц-зал</FONT></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPA
+	N LANG="ru"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"> </SPAN><A
+	 HREF="http://ibb.by/conference"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Calibri">IBB<
+	/FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT F
+	ACE="Calibri">.</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Arial"> </FON
+	T></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><
+	/SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri">На
+	чало регистрации:</FONT></SPAN><SPAN LANG="en-us"><B></B></
+	SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B></B></SPAN><B>
+	<SPAN LANG="ru"><FONT FACE="Arial"></FONT></SPAN></B><SPAN LANG="en-us"><B
+	></B></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B></B></S
+	PAN><B><SPAN LANG="ru"> <FONT FACE="Calibri">9.00.</FONT></SPAN></B><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="ru"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="ru"><FONT FACE="Calibri">Программа конференци
+	и:</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Arial"></FONT></SPAN><SPA
+	N LANG="en-us"> </SPAN><A HREF="http://conf.rollingscopes.com/schedule.htm
+	l"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	<U><FONT COLOR="#0563C1" FACE="Calibri">http</FONT></U></SPAN><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN><
+	U><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="Calibri">://</FONT></SPAN></
+	U><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><
+	U><FONT COLOR="#0563C1" FACE="Calibri">conf</FONT></U></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN><U
+	><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="Calibri">.</FONT></SPAN></U><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><
+	FONT COLOR="#0563C1" FACE="Calibri">rollingscopes</FONT></U></SPAN><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></S
+	PAN><U><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="Calibri">.</FONT></SPAN
+	></U><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"><U><FONT COLOR="#0563C1" FACE="Calibri">com</FONT></U></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN>
+	<U><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="Calibri">/</FONT></SPAN></U
+	><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U
+	><FONT COLOR="#0563C1" FACE="Calibri">schedule</FONT></U></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN
+	><U><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="Calibri">.</FONT></SPAN></
+	U><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><
+	U><FONT COLOR="#0563C1" FACE="Calibri">html</FONT></U></SPAN><SPAN LANG="e
+	n-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri">.</FONT></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="ru"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FAC
+	E="Calibri">Просим Вас взять копию билета для 
+	сканирования. Если Ваш билет покупала ко
+	мпания – убедитесь\, что Ваши данные (имя
+	 \\ фамилия) были отправлены организатора
+	м (</FONT></SPAN><SPAN LANG="en-us"></SPAN><A HREF="mailto:rolling.scopes
+	@gmail.com"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"><U><FONT COLOR="#0563C1" FACE="Calibri">rolling</FONT></U></SPAN>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U>
+	</U></SPAN><U><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="Calibri">.</FONT
+	></SPAN></U><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"><U><FONT COLOR="#0563C1" FACE="Calibri">scopes</FONT></U></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><
+	/U></SPAN><U><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="Calibri">@</FONT>
+	</SPAN></U><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG=
+	"en-us"><U><FONT COLOR="#0563C1" FACE="Calibri">gmail</FONT></U></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U
+	></SPAN><U><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="Calibri">.</FONT></
+	SPAN></U><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"><U><FONT COLOR="#0563C1" FACE="Calibri">com</FONT></U></SPAN><SPAN L
+	ANG="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN
+	><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri">).</FONT><
+	/SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-u
+	s"></SPAN><SPAN LANG="ru"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT COLOR="#222
+	222" FACE="Calibri"> </FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT COLOR="#2222
+	22" FACE="Calibri">Е</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri
+	">сли покупали билет напрямую в</FONT></SPAN><SPA
+	N LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="ru"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN
+	><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">IMAGUR
+	U</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri">\, вам долж
+	ен</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPA
+	N LANG="en-us"><FONT FACE="Calibri"> </FONT></SPAN><SPAN LANG="en-us"></S
+	PAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><F
+	ONT FACE="Calibri">прийти на почту электронный б
+	илет из системы</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="
+	Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"> <FONT FACE="Calibri">Eventbright</FONT></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="ru"><FONT FACE="Calibri">. Если по каким-то причи
+	нам письмо затерялось\, не волнуйтесь – 
+	ваши данные у нас есть\, просто приходите
+	 и мы найдем вас в списках. По срочным воп
+	росам можно позвонить организаторам нап
+	рямую\, все контакты указаны здесь:</FONT></SP
+	AN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	<FONT COLOR="#222222" FACE="Calibri"> </FONT></SPAN><SPAN LANG="en-us"></
+	SPAN><A HREF="http://conf.rollingscopes.com/codeofconduct.html"><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLO
+	R="#1155CC" FACE="Calibri">http</FONT></U></SPAN><SPAN LANG="en-us"></SPAN
+	><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN><U><SPAN LANG=
+	"ru"><FONT COLOR="#1155CC" FACE="Calibri">://</FONT></SPAN></U><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR
+	="#1155CC" FACE="Calibri">conf</FONT></U></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN><U><SPAN LANG="
+	ru"><FONT COLOR="#1155CC" FACE="Calibri">.</FONT></SPAN></U><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#
+	1155CC" FACE="Calibri">rollingscopes</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN><U><SPAN 
+	LANG="ru"><FONT COLOR="#1155CC" FACE="Calibri">.</FONT></SPAN></U><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT CO
+	LOR="#1155CC" FACE="Calibri">com</FONT></U></SPAN><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN><U><SPAN LANG
+	="ru"><FONT COLOR="#1155CC" FACE="Calibri">/</FONT></SPAN></U><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR=
+	"#1155CC" FACE="Calibri">codeofconduct</FONT></U></SPAN><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN><U><SPA
+	N LANG="ru"><FONT COLOR="#1155CC" FACE="Calibri">.</FONT></SPAN></U><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT 
+	COLOR="#1155CC" FACE="Calibri">html</FONT></U></SPAN><SPAN LANG="en-us"></
+	SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="ru"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"
+	><FONT FACE="Calibri">На конференции будет работа
+	ть синхронный переводчик.</FONT></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="ru"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"> </SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri">Если Вы зах
+	отите взять устройство для прослушивани
+	я синхронного перевода\, при себе</FONT></SPAN>
+	<SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LA
+	NG="en-us"><B></B></SPAN><B><SPAN LANG="ru"> <FONT FACE="Calibri">необ
+	ходимо</FONT></SPAN></B><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri"> и
+	меть документ\, удостоверяющий личность.
+	</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Arial"> </FONT></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri">Большая пр
+	осьба относиться к устройству бережно и 
+	аккуратно\, при утере или повреждении га
+	рнитуры\, вся ответственность и возмещен
+	ие убытка будет лежать на пользователе.</
+	FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="ru"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-u
+	s"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	ru"><FONT FACE="Calibri">Для участия в конкурсе “</FO
+	NT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Calibri">CSS</FONT></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FAC
+	E="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"> <FONT FACE="Calibri">Quiz</FONT></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="ru"><FONT FACE="Calibri">”</FONT></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#222222" FACE="Cali
+	bri"> </FONT></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><
+	B></B></SPAN><SPAN LANG="en-us"><B></B></SPAN><B><SPAN LANG="ru"><FONT COL
+	OR="#222222" FACE="Calibri">обязательно</FONT></SPAN></B><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COL
+	OR="#222222" FACE="Calibri"> </FONT></SPAN><SPAN LANG="en-us"></SPAN><SPA
+	N LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT COLO
+	R="#222222" FACE="Calibri">наличие ноутбука. Будут р
+	азыгрываться лицензии на продукты</FONT></SP
+	AN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="ru"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT COLOR="#222222
+	" FACE="Calibri">JetBrains</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT COLOR="#
+	222222" FACE="Calibri">\, а также</FONT></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><
+	FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-u
+	s"></SPAN><SPAN LANG="en-us"> <FONT COLOR="#222222" FACE="Calibri">Google<
+	/FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Arial"></FONT></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT COLO
+	R="#222222" FACE="Calibri">Chromebook</FONT></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FO
+	NT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"> <FONT COLOR="#222222" FACE="Calibri">Pixel</FO
+	NT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="ru"><FONT COLOR="#222222" FACE="Calibri"> от 
+	компании</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Arial"></FON
+	T></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"> <FONT COLOR="#222222" FACE="Calibri">PandaDoc</FONT></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPA
+	N LANG="ru"><FONT COLOR="#222222" FACE="Calibri">.</FONT></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="ru"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Calibr
+	i">Не забываем\, что 31-го января у нас ворк
+	шопы. Можно еще успеть зарегистрировать
+	ся здесь</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT COLOR="#222222" FAC
+	E="Calibri">:</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"><FONT COLOR="#222222" FACE="Calibri"> </FONT></SP
+	AN><SPAN LANG="en-us"></SPAN><A HREF="http://goo.gl/ZWOHlX"><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#
+	1155CC" FACE="Calibri">http</FONT></U></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN><U><SPAN LANG="ru"
+	><FONT COLOR="#1155CC" FACE="Calibri">://</FONT></SPAN></U><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#1
+	155CC" FACE="Calibri">goo</FONT></U></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN><U><SPAN LANG="ru"><
+	FONT COLOR="#1155CC" FACE="Calibri">.</FONT></SPAN></U><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#1155C
+	C" FACE="Calibri">gl</FONT></U></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"><U></U></SPAN><U><SPAN LANG="ru"><FONT 
+	COLOR="#1155CC" FACE="Calibri">/</FONT></SPAN></U><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#1155CC" FA
+	CE="Calibri">ZWOHlX</FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="ru"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Cal
+	ibri">Афтепати пройдет сразу по окончании 
+	конференции там же\, в</FONT></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><
+	FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-u
+	s"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">IBB</FONT></SPAN><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="ru"><FONT FACE="Calibri"> центре\, в программе 
+	пиво и снеки.</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="ru"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"
+	><FONT FACE="Calibri">Желаем Вам приятного препро
+	вождения!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"></SPAN></P>\n\n<P DIR=L
+	TR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="ru"><FONT FACE="Calibri">До встречи на ко
+	нференции!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"></SPAN></P>\n\n<P DIR
+	=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="ru"><FONT FACE="Calibri">С уважением\,</FON
+	T></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="ru"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"
+	><FONT FACE="Calibri">Организаторы</FONT></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="ru"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">the</FONT></SPAN
+	><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="ru"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-us"><
+	/SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">R
+	olling</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Arial"></FONT></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FO
+	NT FACE="Calibri">Scopes</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><FONT FACE="Aria
+	l"></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"> <FONT FACE="Calibri">Conference</FONT></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="ru"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><A HREF="http://
+	conf.rollingscopes.com/"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Calibri">http</FONT><
+	/U></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><U></U></SPAN><U><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="Calibr
+	i">://</FONT></SPAN></U><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Calibri">conf</FONT></
+	U></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"><U></U></SPAN><U><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="Calibri
+	">.</FONT></SPAN></U><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Calibri">rollingscopes</F
+	ONT></U></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN L
+	ANG="en-us"><U></U></SPAN><U><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="C
+	alibri">.</FONT></SPAN></U><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Calibri">com</FONT>
+	</U></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG=
+	"en-us"><U></U></SPAN><U><SPAN LANG="ru"><FONT COLOR="#0563C1" FACE="Calib
+	ri">/</FONT></SPAN></U><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="ru"><
+	/SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"><FONT FACE="Arial"> </FONT></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="r
+	u"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
